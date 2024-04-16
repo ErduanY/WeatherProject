@@ -1,6 +1,6 @@
 import "./../css/style.css"
 
-const apiKey = "1ffb553ccef91471d7034115721c2a78";
+const apiKey = "";
 
 const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 
